@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2021<br>📚 I'm currently learning DL</p>
+<p align="left">✨ Creating bugs since  2021<br>I'm a full stack developer. I like to work with Mongodb,Express, React,  NodeJS and c..</p>
 
 ###
 
-<h2 align="left">Things I use The Most</h2>
+<h2 align="left">Stack I work with</h2>
 
 ###
 
@@ -37,7 +37,9 @@
 </div>
 
 ###
-
+<br/>
+<br/>
+<br/>
 <div align="center">
   <a href="vishnuchandran2532@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
