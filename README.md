@@ -39,7 +39,6 @@
 ###
 <br/>
 <br/>
-<br/><br/>
 <br/>
 
 <h2 align="left">My Social Media Accounts</h2>
